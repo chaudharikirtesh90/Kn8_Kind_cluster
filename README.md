@@ -9,7 +9,7 @@ chmod +x kind\_install\_script.sh
 
 
 ## 2. Setting Up the KIND Cluster
-Create a kind-config.yaml file:[kind_config.yml]()
+Create a kind-config.yaml file: [kind_config.yml](Cluster_config.yml)
 
 
 Create the cluster using the configuration file:
